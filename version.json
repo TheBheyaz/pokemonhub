@@ -2,13 +2,5 @@
   "versionCode": 4,
   "versionName": "6.0",
   "apkUrl": "https://github.com/TheBheyaz/pokemonhub/releases/download/v6/pokemonhubv6.apk",
-  "releaseNotes": "A new version for this app is revealed!
-
-- Some UI improvements have been made.
-- A new feature is being tried to be added: Widgets (It doesn't really work well right now.)
-- A new feature is being tried to be added: Type Advantages for Game/DLC Teams (It doesn't really work well right now.)
-- A new feature is added: Profile Card
-- You can create your overall stats as a profile card and download this card as png.
-- New missions have been added.
-- You can now check if there is an update in settings screen."
+  "releaseNotes": "A new version for this app is revealed!"
 }
